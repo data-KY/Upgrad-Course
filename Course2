@@ -7,3 +7,10 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Kaushal Yadav
+Course 2 - Exploratory Data Analysis
+1. Type driven metrics - If you know the column data type, the metrics which can be extracted. for example, if day, date, month, year can be extracted from the Date column (datetime)
+2. Business domain driven - metrics which are derived using the existing data and business context. For example to identify students which have failed the exam (scored less than 35 marks)
+3. Data driven - metrics which are calculated using existing data columns. For example, if you have runs scored and balls - Strike rate can be a derived metric.
+
